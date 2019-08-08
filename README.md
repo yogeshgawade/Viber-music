@@ -16,16 +16,12 @@ To get started, first create a new album. When adding an album cover logo, it's 
 
 After an album is created you will then be able to add/upload songs. Currently supported file types are WAV, MP3, and OGG.
 
-![](http://i.imgur.com/gTNrnV6.png)
 
 ## My Songs
 
-Once songs are added to an album you are then able to play, favorite, and delete them.
-
-![](http://i.imgur.com/ggcgbz0.png)
+Once songs are added to an album you are then able to play, favorite, and delete them
 
 ## Searching
 
 You can also search for music using the search feature at the top of every page. Any relevant albums will appear at the top of the results page, and the results for individual songs will appear below. 
 
-![](http://i.imgur.com/kfkFA3N.png)

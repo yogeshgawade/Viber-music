@@ -4,13 +4,11 @@
 
 Viberr is an application that let's you upload, store, and play all of your music from the cloud. You can now manage and listen to your music from any device, anywhere in the world. 
 
-![](http://i.imgur.com/9Ix2CbR.png)
+
 
 ## How does it work?
 
 To get started, first create a new album. When adding an album cover logo, it's best to have a resolution of at least 512x512 and to use common image formats such as JPG, JPEG, or PNG.
-
-![](http://i.imgur.com/RsGZfUq.png)
 
 ## Adding Songs
 
